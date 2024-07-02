@@ -1,16 +1,32 @@
-## Hi there 👋
+ # About Me
 
-<!--
-**MatiJVillagran/MatiJVillagran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Hi, I'm Matias Villagran, and I work as a FullStack Developer.
 
-Here are some ideas to get you started:
+I am a person with strong analytical skills and a responsible, receptive, and committed attitude towards my work environment. I prioritize the organization and completion of assigned tasks. I enjoy teamwork and value a good work atmosphere. I adapt easily to new tasks and work challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Skills:
+
++ Javascript
++ React
++ NodeJs
++ ExpressJs
++ Redux
+
+🤝 Soft Skills:
+
+* Clear communication
+* Teamwork and coordination
+* Empathy
+* Problem-solving
+
+
+About the future!
+
+I am excited about the opportunities in the world of web development. I am a person in search of personal and professional growth.
+
+🔍 Objective:
+
+I am looking for my first opportunity as a web developer, where I can apply my technical knowledge and continue to develop. I am ready to face challenges and contribute to the success of projects.
+
+
+📧 Email: [matiassjv@gmail.com](mailto:matiassjv@gmail.com)
