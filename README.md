@@ -1,8 +1,8 @@
  # About Me
 
-🚀 Hi, I'm Matias Villagran, and I work as a FullStack Developer.
+🚀 Hi, I'm Matias Villagran.
 
-I am a person with strong analytical skills and a responsible, receptive, and committed attitude towards my work environment. I prioritize the organization and completion of assigned tasks. I enjoy teamwork and value a good work atmosphere. I adapt easily to new tasks and work challenges.
+I am a FullStack Developer, with training in Computer Engineering (2 years at UNL) and a graduate of the Henry bootcamp. Although I am oriented towards Front-end, I also manage well in Back-end. I have gained experience in development through academic projects.
 
 💡 Skills:
 
